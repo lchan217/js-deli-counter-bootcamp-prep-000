@@ -4,7 +4,9 @@ currentLine.push(name)
 }
 
 function nowServing(katzDeliLine){
- if()
+ if(katzDeliLine>0){
+   
+ }
   
   
 }
