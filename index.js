@@ -6,7 +6,7 @@ currentLine.push(name)
 function nowServing(katzDeliLine){
  if(katzDeliLine>0){
    var first =(katzDeliLine.shift)
-   return "Currently serving" + first
+    + "."
  }else{
    return "There is nobody waiting to be served!"
  }
