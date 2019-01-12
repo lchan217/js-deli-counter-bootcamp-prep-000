@@ -5,7 +5,7 @@ currentLine.push(name)
 
 function nowServing(katzDeliLine){
  if(katzDeliLine>0){
-   var first (katzDeliLine.push)
+   var first (katzDeliLine.shift)
  }
   
   
